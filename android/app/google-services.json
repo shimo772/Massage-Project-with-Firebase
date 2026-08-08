@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426848640108",
+    "project_id": "messageammar-d5e53",
+    "storage_bucket": "messageammar-d5e53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426848640108:android:26917274685939231a8c49",
+        "android_client_info": {
+          "package_name": "com.example.messageproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1tXiWbxxI2-D3swExu6f3nNIkNPx2x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
